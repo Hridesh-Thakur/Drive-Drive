@@ -52,7 +52,7 @@ When you relaunch the game, it **automatically starts from your last saved level
 
 | Main Menu | In-Game View |
 |-----------|--------------|
-| ![Menu]() | ![Game]() |
+| ![Menu](image(2).png) | ![Game](image(1).png) |
 
 ---
 
