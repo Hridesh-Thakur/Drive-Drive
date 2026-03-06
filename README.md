@@ -56,9 +56,10 @@ When you relaunch the game, it **automatically starts from your last saved level
 
 ---
 
-## Play Now
-If you want to play this game, click the link below:
 
-[🚀 Play Game](https://drive-drive.vercel.app/)
+<div align="center">
+
+[![Play Game](https://img.shields.io/badge/🚀%20Play%20Now-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://drive-drive.vercel.app/)
+
 
 
