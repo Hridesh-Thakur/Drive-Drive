@@ -47,6 +47,15 @@ When you relaunch the game, it **automatically starts from your last saved level
 3. **Game progress** is saved automatically after each level.
 
 ---
+   
+##  Future updates
+
+1. Add more levels.
+2. Adding More Weathers.
+3. Adding more physics.
+
+
+---
 
 ##  Screenshots
 
