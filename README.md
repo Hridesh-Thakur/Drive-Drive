@@ -1,4 +1,4 @@
-# 🚗 Drive & Drive                                                                       
+#  Drive & Drive                                                                       
 
 **Drive & Drive** is an exciting level-based car game where players navigate through 100 unique and challenging levels with a variety of terrains, stunts, and obstacles! With every completed level, you'll unlock the next in a lineup of increasingly difficult tracks designed to test your driving skills and creativity.
 
@@ -6,17 +6,17 @@
 
 ---
    
-## 🎮 Game Features
+##  Game Features
 
-- 🏁 **100 Hand-Crafted Levels** — From beginner ramps to gravity-defying loop-de-loops, each level offers a new challenge!
-- 🚙 **Wide Range of Vehicles** — Drive monster trucks, tanks, unicycles, and more.
-- 💾 **Progress Save System** — Your last completed level is saved in a local database. Continue exactly where you left off.
-- 🧠 **Physics-Based Gameplay** — Realistic physics engine to enhance driving dynamics.
-- 🌈 **Bright & Fun Aesthetics** — Voxel-style graphics for a colourful and fun experience.
+-  **100 Hand-Crafted Levels** — From beginner ramps to gravity-defying loop-de-loops, each level offers a new challenge!
+-  **Wide Range of Vehicles** — Drive monster trucks, tanks, unicycles, and more.
+-  **Progress Save System** — Your last completed level is saved in a local database. Continue exactly where you left off.
+-  **Physics-Based Gameplay** — Realistic physics engine to enhance driving dynamics.
+-  **Bright & Fun Aesthetics** — Voxel-style graphics for a colourful and fun experience.
 
 ---
 
-## 🧩 Game Structure
+##  Game Structure
 
 - Levels are numbered **1 to 100**.
 - Players unlock one level at a time by completing the previous one.
@@ -24,23 +24,23 @@
 
 ---
 
-## 💽 Save Progress with Local Database
+##  Save Progress with Local Database
 
 Your game progress is stored locally using a lightweight database (such as SQLite or JSON file, depending on the platform).
 
-### ✅ What Gets Saved?
+###  What Gets Saved?
 
 - Last level completed
 - Current unlocked level
 - Optional: best time per level or stars earned
 
-### 🔁 Resume Feature
+###  Resume Feature
 
 When you relaunch the game, it **automatically starts from your last saved level**, allowing you to pick up right where you left off.
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 1. **Install the game** on your platform (PC, mobile, or web).
 2. **Start playing** from Level 1.
@@ -48,7 +48,7 @@ When you relaunch the game, it **automatically starts from your last saved level
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 | Main Menu | In-Game View |
 |-----------|--------------|
