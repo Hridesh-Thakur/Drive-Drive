@@ -51,7 +51,7 @@ When you relaunch the game, it **automatically starts from your last saved level
 ##  Future updates
 
 1. Add more levels.
-2. Adding More Weathers.
+2. Add more weather.
 3. Adding more physics.
 
 
