@@ -18,7 +18,7 @@
 
 ##  Game Structure
 
-- Levels are numbered **1 to 100**.
+-  Levels are numbered **1 to 100**.
 - Players unlock one level at a time by completing the previous one.
 - Each level has a unique name (e.g., `Ski Lift`, `Unicycle`, `Wrecking Ball`, etc.).
 
